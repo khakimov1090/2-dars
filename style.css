@@ -1,0 +1,40 @@
+body{
+background-color: cyan;
+}
+.ww{
+    width: 591px;
+ margin-top: 46px;
+ margin-left: 409px;
+background-color: brown;
+padding: auto;
+text-align: center;
+color: white;
+padding: 18px 0 ;
+}
+.ee{
+    width: 1000px;
+height: 700px;
+margin-top: 19px;
+ margin-left: 220px;
+background-color: black;
+border: 10px solid red;
+}
+.uu{
+background-color: aqua;
+margin-top: 38px;
+margin-left: 35px;
+width:  896px;
+height: 290px;
+padding-left: 35px;
+padding-top:5px;
+}
+.oo{
+    background-color: aqua;
+    margin-top: 38px;
+    margin-left: 35px;
+    width:  896px;
+    height: 290px;
+    padding-left: 35px;
+    padding-top:5px;
+}
+
